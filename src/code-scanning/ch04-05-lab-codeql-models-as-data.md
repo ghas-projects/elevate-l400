@@ -97,7 +97,7 @@ Notice that it includes both query packs and model extension packs. The query pa
 1. Navigate to your lab organization settings: `https://github.com/orgs/ghas-labs-2026-03-16-<handle>/settings`.
 2. In the left sidebar, under **Advanced Security**, click **Global Settings**.
 3. Scroll to the **Expand CodeQL analysis** section, click **Configure**
-4. Under **Model packs**, add the community extension packs and library source packs. Add one pack per line, following the <scope>/<pack>@x.x.x format. 
+4. Under **Model packs**, add the community extension packs and library source packs. Add one pack per line, following the `<scope>/<pack>@x.x.x` format. 
 5. Click **Save configuration**.
 
 <details>
