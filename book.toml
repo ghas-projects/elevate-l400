@@ -1,0 +1,10 @@
+[book]
+title = "GitHub Advanced Security L400"
+authors = ["GitHub"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
